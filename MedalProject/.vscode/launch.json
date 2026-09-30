@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Main (GUI)",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Run ResultRecordTest",
+            "request": "launch",
+            "mainClass": "ResultRecordTest"
+        },
+        {
+            "type": "java",
+            "name": "Run ResultManagerTest",
+            "request": "launch",
+            "mainClass": "ResultManagerTest"
+        },
+        {
+            "type": "java",
+            "name": "Run MedalStandingsTest",
+            "request": "launch",
+            "mainClass": "MedalStandingsTest"
+        }
+    ]
+}
